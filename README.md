@@ -15,7 +15,7 @@
 
 ## 安装和运行方法
 1. 安装 Python 3.12
-2. 命令行执行：`pip install pygame`
+2. 命令行执行：`pip install pygame` 
 3. 进入项目目录，执行：`python main.py`
 
 ## 游戏操作说明
