@@ -27,7 +27,19 @@
 - 按 ESC：返回选关
 
 ## 游戏截图
-（下面放你截的图）
+
+### 关卡选择
+<img width="1116" height="1197" alt="image" src="https://github.com/user-attachments/assets/ded84d83-987e-4648-b87d-1a6b1b609efa" />
+
+### 游戏界面
+<img width="1102" height="1167" alt="image" src="https://github.com/user-attachments/assets/785f05e7-cf79-41ad-a8a4-506d71612b10" />
+
+### 通关界面
+<img width="1105" height="1151" alt="image" src="https://github.com/user-attachments/assets/c6f55464-aad9-4f56-bb63-f0b5fa71b2d2" />
+
+### 失败界面
+<img width="1103" height="1154" alt="image" src="https://github.com/user-attachments/assets/8fc10326-4eca-46e8-a2e9-a260a2cfcfe2" />
+
 
 ## AIGC 使用说明
 本项目在开发过程中使用了 DeepSeek / ChatGPT 辅助完成代码编写、调试和界面美化。
